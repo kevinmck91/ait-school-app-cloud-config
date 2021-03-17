@@ -1,4 +1,3 @@
-greeting: These are the PROD properties
-    
+schoolappconfig.greeting: These are the PROD properties
 
-connection: PRODPRODPRODPRODPRODPROD
+schoolappconfig.connection: PRODPRODPRODPRODPRODPROD
